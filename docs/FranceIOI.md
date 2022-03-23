@@ -1,0 +1,1 @@
+​Propositions aux activités de la rubrique [Cours et Problèmes](http://www.france-ioi.org/algo/chapters.php){:target="_blank"} du groupe [groupe 1nsi2022​-ecmorlaix](http://www.france-ioi.org/algo/groupsMain.php){:target="_blank"} :
