@@ -22,6 +22,12 @@
 - Présentation de différentes solutions de développement pour l'apprentissage de la programmation : Notebook avec Basthon ou Carnets, python tutor, Basthon Console, REPL, ...
 
 -->
+
+## Le 05/04
+
+- Correction des activités du notebook [Traitement de données en table avec Python (Partie 1)​](./Data_CSV-1) ;
+- **faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](./Data_CSV-2) et rendre compte de votre travail ;
+
 ## Le 22/03
 
 - Révisions SNT, initiation au traitement de données en table à l'adresse [https://concours.castor-informatique.fr/](https://concours.castor-informatique.fr/){target="_blank"} avec les codes :
