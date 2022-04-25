@@ -23,6 +23,24 @@
 
 -->
 
+## Le 26/04
+
+- **faire** les activités du notebook [IHM_Web_Statique](./IHM_Web_Statique) et rendre compte de votre travail ;
+
+### Complément :
+
+- **regarder** la vidéo [Notions de web et d'interface homme-machine](https://www.lumni.fr/video/notions-de-web-et-d-interface-homme-machine){target="_blank"} ;
+
+### Révisions :
+
+- **regarder** la vidéo [Les dictionnaires en Python](https://www.lumni.fr/video/les-dictionnaires){target="_blank"} ;
+
+- **regarder** la vidéo [Notion de listes en informatique et application aux images numériques](https://www.lumni.fr/video/notion-de-listes-en-informatique-et-application-aux-images-numeriques){target="_blank"} ;
+
+- **regarder** la vidéo [L'architecture des réseaux et les protocoles de communications](https://www.lumni.fr/video/l-architecture-des-reseaux-et-les-protocoles-de-communications){target="_blank"}
+
+***
+
 ## Le 05/04
 
 - Correction des activités du notebook [Traitement de données en table avec Python (Partie 1)​](./Data_CSV-1) ;
