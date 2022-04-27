@@ -23,6 +23,11 @@
 
 -->
 
+## Les 27 et 29/04
+
+- **faire** les activités du notebook [IHM_Web_Dynamique](./IHM_Web_Dynamique) et rendre compte de votre travail ;
+
+
 ## Le 26/04
 
 - **faire** les activités du notebook [IHM_Web_Statique](./IHM_Web_Statique) et rendre compte de votre travail ;
