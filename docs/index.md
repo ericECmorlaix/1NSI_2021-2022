@@ -22,6 +22,15 @@
 - Présentation de différentes solutions de développement pour l'apprentissage de la programmation : Notebook avec Basthon ou Carnets, python tutor, Basthon Console, REPL, ...
 
 -->
+## Révisions pour le 05/05
+
+- **s'entrainer** sur le site [Exercices pratiques de NSI](https://e-nsi.gitlab.io/pratique/){target="_blank"} ;
+
+- **regarder** les vidéos :
+    - [Notion de listes en informatique et application aux images numériques](https://www.lumni.fr/video/notion-de-listes-en-informatique-et-application-aux-images-numeriques){target="_blank"} ;
+    - [Les dictionnaires en Python](https://www.lumni.fr/video/les-dictionnaires){target="_blank"} ;
+    - [L'architecture des réseaux et les protocoles de communications](https://www.lumni.fr/video/l-architecture-des-reseaux-et-les-protocoles-de-communications){target="_blank"} ;
+    - [Notions de web et d'interface homme-machine](https://www.lumni.fr/video/notions-de-web-et-d-interface-homme-machine){target="_blank"}
 
 ## Les 27 et 29/04
 
