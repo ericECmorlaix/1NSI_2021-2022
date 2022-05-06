@@ -24,7 +24,7 @@
 -->
 ## Pour le 13/05
 
-- **finir** et **remettre** les notebook [IHM_Web_Dynamique](./IHM_Web_Dynamique) et [IHM_Web_Statique](./IHM_Web_Statique) ;
+- **finir** et **remettre** les notebook [IHM_Web_Dynamique](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/IHM_Web_Dynamique.ipynb){target="_blank"} et [IHM_Web_Statique](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/IHM_Web_Statique.ipynb){target="_blank"} ;
 
 - **s'entrainer** sur le site [Exercices pratiques de NSI](https://e-nsi.gitlab.io/pratique/){target="_blank"} pour préparer une évaluation pratique ;
 
@@ -42,12 +42,12 @@
 
 ## Les 27 et 29/04
 
-- **faire** les activités du notebook [IHM_Web_Dynamique](./IHM_Web_Dynamique) et rendre compte de votre travail ;
+- **faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/IHM_Web_Dynamique.ipynb){target="_blank"} et rendre compte de votre travail ;
 
 
 ## Le 26/04
 
-- **faire** les activités du notebook [IHM_Web_Statique](./IHM_Web_Statique) et rendre compte de votre travail ;
+- **faire** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/IHM_Web_Statique.ipynb){target="_blank"} et rendre compte de votre travail ;
 
 ### Complément :
 
@@ -65,8 +65,8 @@
 
 ## Le 05/04
 
-- Correction des activités du notebook [Traitement de données en table avec Python (Partie 1)​](./Data_CSV-1) ;
-- **faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](./Data_CSV-2) et rendre compte de votre travail ;
+- Correction des activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/Data_CSV-1.ipynb){target="_blank"} ;
+- **faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/Data_CSV-2.ipynb){target="_blank"} et rendre compte de votre travail ;
 
 ## Le 22/03
 
@@ -75,7 +75,7 @@
     - Séance 2 : ut7rekw3​​
     - Séance 3 : 3fhjqjnj
 
-- **faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](./Data_CSV-1) et rendre compte de votre travail ;
+- **faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/Data_CSV-1.ipynb){target="_blank"} et rendre compte de votre travail ;
 
 ## Le 18/03
 
@@ -83,7 +83,7 @@
 
 ## Le 15/03
 
-- **faire** les [Exercices sur les listes​ (tableaux)](./Exercices_listes) et rendre compte de votre travail ;
+- **faire** les [Exercices sur les listes​ (tableaux)](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/Exercices_listes.ipynb){target="_blank"} et rendre compte de votre travail ;
 
 ## Le 25/02 :
 

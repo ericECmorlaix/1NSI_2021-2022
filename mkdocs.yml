@@ -17,19 +17,19 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - Cahier de texte : index.md
-    - Les notebook jupyter :
-      - Découverte : decouverte-notebook.ipynb
-      - Markdown : MarkDown-Le_BN_pour_rapporter.ipynb
-      - HTML : HTML-Le_BN_pour_multimedier.ipynb
-      - LaTeX : LaTeX-Le_BN_pour_formuler.ipynb
-      - Calcul : Arithmetique-Le_BN_pour_calculer.ipynb
+    # - Les notebook jupyter :
+    #   - Découverte : decouverte-notebook.ipynb
+    #   - Markdown : MarkDown-Le_BN_pour_rapporter.ipynb
+    #   - HTML : HTML-Le_BN_pour_multimedier.ipynb
+    #   - LaTeX : LaTeX-Le_BN_pour_formuler.ipynb
+    #   - Calcul : Arithmetique-Le_BN_pour_calculer.ipynb
     - Histoire de l’informatique : histoire.md
-    - Données de base :
-      - Numération binaire : Binaire-Le_BN_pour_coder.ipynb
-      - Code Hexadécimal : Hexadecimal-Autre_BN_pour_coder.ipynb
+    # - Données de base :
+    #   - Numération binaire : Binaire-Le_BN_pour_coder.ipynb
+    #   - Code Hexadécimal : Hexadecimal-Autre_BN_pour_coder.ipynb
     - Langage et Programmation :
       - Cours et problèmes : FranceIOI.md
-      - Bases de Programmation en Python3 : Programmation-Python3-Quelques_bases.ipynb
+      # - Bases de Programmation en Python3 : Programmation-Python3-Quelques_bases.ipynb
 
 # Définition du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/
 theme:
@@ -100,10 +100,10 @@ markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abb
 
 plugins:
   - search # Inclure une barre de recherche
-  - mkdocs-jupyter: # Convertir les fichiers .ipynb et .py en pages du site https://github.com/danielfrg/mkdocs-jupyter
-      kernel_name: python3
-      execute: False
-      include_source: True
+  # - mkdocs-jupyter: # Convertir les fichiers .ipynb et .py en pages du site https://github.com/danielfrg/mkdocs-jupyter
+  #     kernel_name: python3
+  #     execute: False
+  #     include_source: True
 
 
 extra:
