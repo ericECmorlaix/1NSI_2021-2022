@@ -22,6 +22,14 @@
 - Présentation de différentes solutions de développement pour l'apprentissage de la programmation : Notebook avec Basthon ou Carnets, python tutor, Basthon Console, REPL, ...
 
 -->
+## Pour le 13/05
+
+- **finir** et **remettre** les notebook [IHM_Web_Dynamique](./IHM_Web_Dynamique) et [IHM_Web_Statique](./IHM_Web_Statique) ;
+
+- **s'entrainer** sur le site [Exercices pratiques de NSI](https://e-nsi.gitlab.io/pratique/){target="_blank"} pour préparer une évaluation pratique ;
+
+- **Se préparer** pour un QCM en particulier sur IHM web, OS Linux, ...
+
 ## Révisions pour le 05/05
 
 - **s'entrainer** sur le site [Exercices pratiques de NSI](https://e-nsi.gitlab.io/pratique/){target="_blank"} ;
