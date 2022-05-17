@@ -22,6 +22,14 @@
 - Présentation de différentes solutions de développement pour l'apprentissage de la programmation : Notebook avec Basthon ou Carnets, python tutor, Basthon Console, REPL, ...
 
 -->
+## Pour le 25/05
+
+- **faire** et **remettre** les notebook [Algorithmique-Complexite](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/Algorithmique-Complexite.ipynb){target="_blank"} et [Algorithmique-Tri](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/Algorithmique-Tri.ipynb){target="_blank"} ;
+
+- **s'entrainer** sur le site [Exercices pratiques de NSI](https://e-nsi.gitlab.io/pratique/){target="_blank"} pour préparer une évaluation pratique ;
+
+- **Se préparer** pour un QCM en particulier sur IHM web, OS Linux, complexité, tri...
+
 ## Pour le 13/05
 
 - **finir** et **remettre** les notebook [IHM_Web_Dynamique](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/IHM_Web_Dynamique.ipynb){target="_blank"} et [IHM_Web_Statique](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/IHM_Web_Statique.ipynb){target="_blank"} ;
