@@ -22,6 +22,12 @@
 - Présentation de différentes solutions de développement pour l'apprentissage de la programmation : Notebook avec Basthon ou Carnets, python tutor, Basthon Console, REPL, ...
 
 -->
+## Le 01/06
+
+Exploration de solutions pour déployer, publier et maintenir un classeur de NSI en ligne :
+
+- [Github + GitPod + MkDocs](https://ericecmorlaix.github.io/adn-Tutoriel_site_web/){target="_blank"}
+
 ## Pour le 25/05
 
 - **faire** et **remettre** les notebook [Algorithmique-Complexite](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/Algorithmique-Complexite.ipynb){target="_blank"} et [Algorithmique-Tri](https://nbviewer.org/github/ericECmorlaix/1NSI_2021-2022/blob/main/docs/Algorithmique-Tri.ipynb){target="_blank"} ;
